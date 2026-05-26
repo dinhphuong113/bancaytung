@@ -1,0 +1,6 @@
+{
+  "name": "Vuon Tung Bonsai Viet",
+  "description": "Website cung cấp các loại tùng cảnh Bonsai cao cấp, tích hợp trợ lý AI tư vấn chăm sóc, blog kỹ thuật cắt tỉa, hệ thống thanh toán trực tuyến bảo mật và dashboard quản lý doanh thu chuyên sâu dành cho admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
